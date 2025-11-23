@@ -1,0 +1,3 @@
+D:/Projects/DDLassessment/cmake-build-debug/CMakeFiles/DDLassessment.dir
+D:/Projects/DDLassessment/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/DDLassessment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
